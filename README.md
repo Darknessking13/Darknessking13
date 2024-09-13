@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darknessking13" alt="darknessking13" /></a> </p>
 
-- 🔭 I’m currently working on [SkyTerminal](https://github.com/Darknessking13/Sky._.RisingDB)
+- 🔭 I’m currently working on [Sky._.RisingDB](https://github.com/Darknessking13/Sky._.RisingDB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
