@@ -20,15 +20,9 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
----
-
 ## 📚 Currently Learning
-
-- 🔧 Advanced WebAssembly optimizations  
 - ⚡ Building distributed systems with Node.js  
 - 🎨 Interactive data visualizations  
-
----
 
 ## 📫 Connect with Me
 
