@@ -29,7 +29,6 @@
 - 🎨 Interactive data visualizations  
 
 ---
----
 
 ## 📫 Connect with Me
 
@@ -38,8 +37,6 @@
   <a href="https://x.com/Darknessking132"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
   <a href="https://discordapp.com/users/1083342294951927881"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
 </p>
-
----
 
 ---
 ## 🌟 Quick Stats
